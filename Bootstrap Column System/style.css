@@ -1,0 +1,62 @@
+.main-container
+{
+        background-color: #201E1F;
+        height: 100vh;
+}
+.container-grid
+{
+    width: 45rem;
+}
+.container-grid>*
+{
+    margin-bottom: 1rem;
+}
+.row1
+{
+        background-color: #007236;
+        height: 5rem;
+        border-radius: 15px;
+}
+.row2>.col1
+{
+        background-color: #FFFF01;
+        height: 5rem;
+        border-radius: 15px;
+}
+.row2>.col2
+{
+        background-color: #6DCFF6;
+        height: 5rem;
+        border-radius: 15px;
+}
+.row3>.col1
+{
+        background-color: #8812FC;
+        height: 22rem;
+        border-radius: 15px;
+}
+.upper
+{
+        background-color:#464646;
+        height: 5rem;
+        border-radius: 15px;
+}
+.middle
+{
+        background-color: #2E3192;
+        height: 7.5rem;
+        border-radius: 15px;
+}
+
+.row>.col1
+{
+        margin-right: 1rem;
+}
+.col>.row
+{
+        margin-bottom: 1rem;
+}
+.row>.middleBar
+{
+        margin:0 0.5rem;
+}
